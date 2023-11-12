@@ -74,3 +74,8 @@ function zipIt(one_arr, two_arr){
     return output
 }
 console.log(zipIt([4,15,100], [10,20,30,40]))
+
+
+function popFront(arr){
+    // save the first value in the array
+}
